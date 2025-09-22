@@ -10,7 +10,6 @@ The objective was to perform **Exploratory Data Analysis (EDA)** on the classic 
 ## 🛠️ Tools & Libraries
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
