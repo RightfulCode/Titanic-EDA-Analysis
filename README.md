@@ -46,4 +46,4 @@ The objective was to perform **Exploratory Data Analysis (EDA)** on the classic 
 
 ## ▶️ How to Run
 - Install dependencies: `pip install -r requirements.txt`  
-- Open the notebook: `jupyter notebook Titanic_EDA.ipynb`
+- Open the notebook: `jupyter notebook Titanic Survival Dataset Analysis.ipynb`
